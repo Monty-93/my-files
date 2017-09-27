@@ -1,2 +1,0 @@
-# my-files
-all files
